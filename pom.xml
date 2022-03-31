@@ -31,7 +31,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-webmvc</artifactId>
-			<version>4.3.2.RELEASE</version>
+			<version>5.3.18</version>
 		</dependency>
        
 		<!-- https://mvnrepository.com/artifact/javax.servlet/javax.servlet-api -->
